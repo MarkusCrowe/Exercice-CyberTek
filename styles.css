@@ -7,6 +7,7 @@ body {
     width: 100vw;
     height: 70vh;
     position: relative;
+    background: black;
 }
 
 /******************************************************************/
@@ -24,11 +25,11 @@ nav ul {
     list-style-type: none;
     height: 100%;
 }
-nav ul li {
+/* nav ul li {
     height: 100%;
     padding: 20px;
-}
-nav ul li a{
+} */
+nav ul a{
     padding: 20px;
     color: white;
     text-decoration: none;
@@ -37,10 +38,10 @@ nav ul li a{
 a:focus {
     background: rgb(169, 239, 65);
 }
-/* ul > li > a {
+/* ul > a:active {
     background: green;
 }
-ul > li:not(:target) > a {
+ul > a:not(:active) {
     background: yellow;
 } */
 /******************************************************************/
