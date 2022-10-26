@@ -88,9 +88,8 @@ body {
     background: url(./images/nvidia-2.jpg) center/cover;
 }
 #dlss .background {
-    background: url(./images/nvidia-1.jpg) center/cover;
+    background: url(./images/nvidia-5.jpeg) center/cover;
 }
-
 #studio .background {
     background: url(./images/nvidia-3.jpg) center/cover;
 }
@@ -195,7 +194,7 @@ span {
         background: url(./images/nvidia-2m.jpg) center/contain;
     }
     #dlss .background{
-        background: url(./images/nvidia-1m.jpg) center/contain;
+        background: url(./images/nvidia-5m.jpeg) center/contain;
     }
     #studio .background{
         background: url(./images/nvidia-3m.jpg) center/contain;
